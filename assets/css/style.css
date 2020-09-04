@@ -38,6 +38,16 @@
   background-color: #525252;
 }
 
+.ui-menu-color-interests {
+    background-color: #D6604B;
+}
+
+.ui-menu-color-github {
+    background-color: #D0AD48;
+}
+/* ---------------------------------------------------interests */
+#map {min-height: 360px;}
+
 /* ---------------------------------------------------Special paddings/margins/text */
 
 h1,
@@ -269,6 +279,8 @@ footer {
     position: relative;
     width: 60%;
 }
+
+#map {min-height: 360px;}
 
 /* ---------------------------------------------------Skills */
 
